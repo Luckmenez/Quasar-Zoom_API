@@ -1,0 +1,33 @@
+
+ app Unknown command "create" +2ms
+
+
+  ___                             
+ / _ \ _   _  __ _ ___  __ _ _ __ 
+| | | | | | |/ _` / __|/ _` | '__|
+| |_| | |_| | (_| \__ \ (_| | |   
+ \__\_\\__,_|\__,_|___/\__,_|_|   
+ 
+
+
+  Example usage
+    $ quasar <command> <options>
+
+  Help for a command
+    $ quasar <command> --help
+    $ quasar <command> -h
+
+  Options
+    --version, -v Print Quasar CLI version
+
+  Commands
+    init          Create a project folder
+    dev           Start a dev server for your App
+    build         Build your app for production
+    clean         Clean all build artifacts
+    new           Quickly scaffold page/layout/component/... vue file
+    mode          Add/remove Quasar Modes for your App
+    info          Display info about your machine and your App
+    serve         Create an ad-hoc server on App's distributables
+    help          Displays this message
+
